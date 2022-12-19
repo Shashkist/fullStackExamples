@@ -1,0 +1,45 @@
+body {
+    background-color:lightblue;
+}
+nav .link{
+    color:red;
+}
+
+.specialPar {
+    border: 3px dashed black;
+    border-radius: 10px;
+    background-color: rgb(232,232,232);
+    color: rgb(209, 65, 28);
+}
+
+p {
+    background-color: red;
+}
+
+/* #myButton {
+     padding-left: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px; 
+} */
+
+/* div {
+    background-color: chocolate;
+} */
+
+.chocolate div {
+    background-color: rgb(232,232,232);
+    
+}
+
+#firstPar {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: larger;
+    text-transform: uppercase;
+    text-decoration: overline;
+    letter-spacing: 2px;
+    word-spacing: 10px;
+    line-height: 1.8;
+}
+
