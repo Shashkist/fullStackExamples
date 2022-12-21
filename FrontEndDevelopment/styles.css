@@ -10,11 +10,55 @@ nav .link{
     border-radius: 10px;
     background-color: rgb(232,232,232);
     color: rgb(209, 65, 28);
+    /*text-align: center;*/
+}
+
+.specialPar:hover {
+    background-color: darkgoldenrod;
+    cursor: pointer;
+    font-family: Cambria;
+    color: black;
 }
 
 p {
     background-color: red;
 }
+
+#item2 {
+    /* background-color: chartreuse; */
+    /* position: relative;
+    left : 20px;
+    bottom : 50px; */
+    /* z-index : -5; */
+}
+
+img {
+
+    /* float : right ;  */
+    opacity : 1;
+    /* height: 100px; */
+    
+}
+
+h2 {
+    box-shadow: 5px 10px 10px rgba(209, 65, 28, 10) ;
+}
+
+li:nth-child(even) {
+    background-color: grey;
+}
+
+ul {
+    /* max-height: 50px;
+    overflow: auto;
+    max-width: 200px; */
+     /* visibility: hidden;  */
+    /* display: none;  */
+
+
+}
+
+
 
 /* #myButton {
      padding-left: 10px;
